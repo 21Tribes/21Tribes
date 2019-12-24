@@ -7,8 +7,14 @@
     Work in Progress
 
 Inhaltsverzeichnis
+
+
 21 Tribes - unsere Vision
-Beweggründe
+
+
+[Beweggründe](#beweggründe)
+
+
 Was ist ein Tribe?
 Wie gestalten wir unser Miteinander im Tribe?*
 Wie entsteht ein Tribe?
@@ -59,7 +65,8 @@ Wir arbeiten hart daran, mit jedem Tribe ein Angebot aufzuziehen, bei dem Gemein
 
 Unsere Vision ist open-source und kann von jedem kopiert, adaptiert oder variiert werden.
 
-Beweggründe
+# Beweggründe
+
 Die Gesellschaft ist gespalten zwischen Konsumrausch und Verzicht. Sowohl Nachhaltigkeit als auch Freiheit haben derzeit einen schlechten Stand, doch mit den zunehmend individualisierten Technologien im Bereich der Freizeitgestaltung begann im letzten Jahrhundert bereits eine weitere gefährliche Entwicklung:
 
 Der Zerfall der Gemeinschaften.
